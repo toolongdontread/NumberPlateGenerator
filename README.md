@@ -2,6 +2,10 @@
 
 You can use this program to generate a number plate.
 
+## System Requirement
+
+OS: Windows
+
 ## Format
 
 AB 1234
